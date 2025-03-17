@@ -1,0 +1,42 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1742183503475)
++++ b/.idea/.gitignore	(date 1742183503475)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: Basic_API/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Basic_API/.gitignore b/Basic_API/.gitignore
+new file mode 100644
+--- /dev/null	(date 1742193887595)
++++ b/Basic_API/.gitignore	(date 1742193887595)
+@@ -0,0 +1,1 @@
++ *.env
+\ No newline at end of file
+Index: Basic_API/.env
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Basic_API/.env b/Basic_API/.env
+new file mode 100644
+--- /dev/null	(date 1742193939586)
++++ b/Basic_API/.env	(date 1742193939586)
+@@ -0,0 +1,1 @@
++DJANGO_SECRET_KEY = "django-insecure-^f$ge^pe$9#zqv#y%d3)w5#h&%g^_li^v6szetv+0a=_ana6)7"
+\ No newline at end of file
